@@ -1,0 +1,14 @@
+TODO:
+
+Finish other pages (DO)
+	Home
+	Her Story
+	His Story
+	Locations
+	Nuptial Mass explanation
+	Vendors
+	DigiGuestBook
+Get design of Save the Dates finalised (DO/KR/AO)
+Start with Site Design (JO)
+Work on animations with blocks (DO/AO)
+Work on integrations with emails, and guestbook (DO)
