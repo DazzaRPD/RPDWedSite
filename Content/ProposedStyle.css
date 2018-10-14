@@ -1,0 +1,21 @@
+/*Heading 2 - must be ALS or other WS font*/
+
+h2
+{
+	font-family: Brush Script MT,cursive;
+	color: navy;
+}
+
+p.subhead 
+{ 
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 8px;
+}
+
+p.main 
+{
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+	font-size: 12px;
+}
+
